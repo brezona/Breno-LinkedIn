@@ -38,6 +38,10 @@ h1 {
 p {
     font-size: 2.0rem;
 }
+
+.link {
+    display: flex;
+}
 a {
     font-size: 1.6rem;
 }
