@@ -40,5 +40,7 @@ p {
 }
 a {
     font-size: 1.6rem;
-    padding-left: 2.0rem;
+}
+.bloco {
+    padding: 2.0rem;
 }
