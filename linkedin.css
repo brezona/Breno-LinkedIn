@@ -55,11 +55,13 @@ a {
     display: flex;
     justify-content: center;
     max-width: 80vw;
+
+    position: relative;
 }
 
 .imgs {
     z-index: 1;
-    position: relative;
+    position: absolute;
     max-width: 60vw;
 }
 
