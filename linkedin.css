@@ -49,3 +49,8 @@ a {
 .bloco {
     padding: 1.8rem 1.5rem;
 }
+
+#breno {
+    align-items: center;
+    max-width: 80vw;
+}
