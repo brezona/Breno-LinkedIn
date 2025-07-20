@@ -51,6 +51,7 @@ a {
 }
 
 #breno {
+    align-items: center;
     display: flex;
     justify-content: center;
     max-width: 80vw;
