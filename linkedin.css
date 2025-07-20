@@ -51,6 +51,12 @@ a {
 }
 
 #breno {
+    display: flex;
     justify-content: center;
     max-width: 80vw;
+}
+
+.imgs {
+    z-index: 1;
+    position: relative;
 }
