@@ -59,4 +59,5 @@ a {
 .imgs {
     z-index: 1;
     position: relative;
+    max-width: 60vw;
 }
